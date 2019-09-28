@@ -49,31 +49,31 @@ var crearCaptionLaCosta = function (item) {
   return [
     '<div class="row">',
     '<div class="col-3 col-sm-2">',
-    '<img src="/img/logo-la-costa.svg" alt="La Costa" width="100%"/>',
+    '<img src="img/logo-la-costa.svg" alt="La Costa" width="100%"/>',
     '</div>',
     '<div class="col-9 col-sm-10">',
     item.caption,
     '<ul class="downloads">',
     '<li>',
-    '<a class="btn btn-sm btn-outline-secondary" href="/img/obras/la-costa/brochure.pdf">',
+    '<a class="btn btn-sm btn-outline-secondary" href="img/obras/la-costa/brochure.pdf">',
     '<span class="texto-largo">Descargar brochure</span>',
     '<span class="texto-corto">Brochure</span>',
     '</a>',
     '</li>',
     '<li>',
-    '<a class="btn btn-sm btn-outline-secondary" href="/img/obras/la-costa/master-plan.pdf">',
+    '<a class="btn btn-sm btn-outline-secondary" href="img/obras/la-costa/master-plan.pdf">',
     '<span class="texto-largo">Descargar master plan</span>',
     '<span class="texto-corto">Plano</span>',
     '</a>',
     '</li>',
     '<li>',
-    '<a class="btn btn-sm btn-outline-secondary" href="/img/obras/la-costa/casas.pdf">',
+    '<a class="btn btn-sm btn-outline-secondary" href="img/obras/la-costa/casas.pdf">',
     '<span class="texto-largo">Descargar casas</span>',
     '<span class="texto-corto">Casas</span>',
     '</a>',
     '</li>',
     '<li>',
-    '<a class="btn btn-sm btn-outline-secondary" href="/img/obras/la-costa/infografia.jpg">',
+    '<a class="btn btn-sm btn-outline-secondary" href="img/obras/la-costa/infografia.jpg">',
     '<span class="texto-largo">Infografía</span>',
     '<span class="texto-corto">infografia</span>',
     '</a>',
@@ -171,98 +171,98 @@ $(function () {
     indicators: false,
     items: [
       {
-        img: '/img/obras/parque-del-sur/vista-parque.jpg',
+        img: 'img/obras/parque-del-sur/vista-parque.jpg',
         caption: [
           '<h3>Parque del Sur 3</h3>',
           '<p>Calle José Sabobal 252 - Santiago de Surco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/barranco-lofts/sala.jpg',
+        img: 'img/obras/barranco-lofts/sala.jpg',
         caption: [
           '<h3>Barranco Lofts</h3>',
           '<p>Jr. 28 de Julio 434 - Barranco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/parque-del-sur/mimbre.jpg',
+        img: 'img/obras/parque-del-sur/mimbre.jpg',
         caption: [
           '<h3>Parque del Sur 2</h3>',
           '<p>Calle José Sabobal 236 - Santiago de Surco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/parque-del-sur/fachada.jpg',
+        img: 'img/obras/parque-del-sur/fachada.jpg',
         caption: [
           '<h3>Parque del Sur 2</h3>',
           '<p>Calle José Sabobal 236 - Santiago de Surco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/parque-del-sur/ecovista.jpg',
+        img: 'img/obras/parque-del-sur/ecovista.jpg',
         caption: [
           '<h3>Parque del Sur 1</h3>',
           '<p>Calle José Sabobal 282 - Santiago de Surco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/winternitz/puerta-winternitz.jpg',
+        img: 'img/obras/winternitz/puerta-winternitz.jpg',
         caption: [
           '<h3>Winternitz</h3>',
           '<p>Calle Castilla La Vieja 124 - Santiago de Surco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/parque-del-sur/edificio.jpg',
+        img: 'img/obras/parque-del-sur/edificio.jpg',
         caption: [
           '<h3>Parque del Sur 3</h3>',
           '<p>Calle José Sabobal 252 - Santiago de Surco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/parque-del-sur/mascaras.jpg',
+        img: 'img/obras/parque-del-sur/mascaras.jpg',
         caption: [
           '<h3>Parque del Sur 1</h3>',
           '<p>Calle José Sabobal 282 - Santiago de Surco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/barranco-lofts/cochera.jpg',
+        img: 'img/obras/barranco-lofts/cochera.jpg',
         caption: [
           '<h3>Barranco Lofts</h3>',
           '<p>Jr. 28 de Julio 434 - Barranco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/parque-del-sur/salados.jpg',
+        img: 'img/obras/parque-del-sur/salados.jpg',
         caption: [
           '<h3>Parque del Sur 1</h3>',
           '<p>Calle José Sabobal 282 - Santiago de Surco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/parque-del-sur/dormitorio.jpg',
+        img: 'img/obras/parque-del-sur/dormitorio.jpg',
         caption: [
           '<h3>Parque del Sur 2</h3>',
           '<p>Calle José Sabobal 236 - Santiago de Surco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/barranco-lofts/panoramica.jpg',
+        img: 'img/obras/barranco-lofts/panoramica.jpg',
         caption: [
           '<h3>Barranco Lofts</h3>',
           '<p>Jr. 28 de Julio 434 - Barranco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/parque-del-sur/mueble.jpg',
+        img: 'img/obras/parque-del-sur/mueble.jpg',
         caption: [
           '<h3>Parque del Sur 2</h3>',
           '<p>Calle José Sabobal 236 - Santiago de Surco.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/barranco-lofts/dormitorio.jpg',
+        img: 'img/obras/barranco-lofts/dormitorio.jpg',
         caption: [
           '<h3>Barranco Lofts</h3>',
           '<p>Jr. 28 de Julio 434 - Barranco.</p>'
@@ -277,14 +277,14 @@ $(function () {
     indicators: true,
     items: [
       {
-        img: '/img/obras/la-costa/playa.jpg',
+        img: 'img/obras/la-costa/playa.jpg',
         caption: [
           '<h3>Campo y playa en un solo lugar</h3>',
           '<p>Nuevo condominio frente al mar de Cerro Azul.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/la-costa/piscina.jpg',
+        img: 'img/obras/la-costa/piscina.jpg',
         caption: [
           '<h3>60% de áreas libres</h3>',
           '<p>Parques, jardines, piscina, malecón y club house para ',
@@ -292,14 +292,14 @@ $(function () {
         ].join('')
       },
       {
-        img: '/img/obras/la-costa/lotizacion.jpg',
+        img: 'img/obras/la-costa/lotizacion.jpg',
         caption: [
           '<h3>107 lotes en la primera etapa</h3>',
           '<p>Terrenos desde $35,000. Lotes de 144 y 170m2.</p>'
         ].join('')
       },
       {
-        img: '/img/obras/la-costa/casa-1.jpg',
+        img: 'img/obras/la-costa/casa-1.jpg',
         caption: [
           '<h3>Lejos del bullicio de la ciudad</h3>',
           '<p>Condominio frente al mar en Cerro Azul, Cañete. ',
@@ -307,7 +307,7 @@ $(function () {
         ].join('')
       },
       {
-        img: '/img/obras/la-costa/casa-2.jpg',
+        img: 'img/obras/la-costa/casa-2.jpg',
         caption: [
           '<h3>Casa 2</h3>',
           '<p>Contamos con 4 diseños de casas para su elección. '
